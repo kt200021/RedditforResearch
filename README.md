@@ -1,6 +1,10 @@
 # RedditforResearch
 A web app in MEAN stack in which multiple users can upload documents,view documents uploaded by other users,annotate, hightlight and comment on documents.Elastic search and Hypothesis.is was integrated to search on documents and annotations.
 
+![Image description](recent:///834941226bc1b1e885e169195ec3cd77)
+
+# INSTALLATION 
+
 1. Install MongoDB (instructions:
 https://docs.mongodb.com/manual/installation/). Ensure it has installed
 successfully
